@@ -2,5 +2,4 @@ Hello and Welcome to Devops
 Currently learning about git
 here is a change in my first branch
 
-adding a small change
-this is a change
+devops clone version
