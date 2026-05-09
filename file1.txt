@@ -3,3 +3,4 @@ Currently learning about git
 here is a change in my first branch
 
 adding a small change
+this is a change
