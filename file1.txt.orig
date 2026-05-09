@@ -2,5 +2,8 @@ Hello and Welcome to Devops
 Currently learning about git
 here is a change in my first branch
 
-
+<<<<<<< HEAD
+devops clone version
+=======
 this is gproject
+>>>>>>> 69b863c1b20cee561a0e0dc4d303add01c476a96
