@@ -1,0 +1,2 @@
+Hello and Welcome to Devops
+Currently learning about git
